@@ -1,0 +1,23 @@
+list = array[1,2,3]
+
+Dictionary = key and values[1:"geek"]
+
+Tuple = collection of python obj (immutable) (1,2,3)
+
+set = unorder collection of data (mutable but not duplicate) set([1,2,3])
+
+frozen set = doesnt affect original set , fronzenset([1,2,3])
+
+ChainMap
+========
+A ChainMap encapsulates many dictionaries into a single unit and returns a list of dictionaries
+
+Stack 
+=====
+Top  = Top +1 (Push)
+Top = Top -1(pop)
+
+Queue 
+=====
+Rear = Rear+1(push)
+Front = Front +1(pop)
